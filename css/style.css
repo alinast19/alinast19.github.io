@@ -1,0 +1,23 @@
+.header-text {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 130%;
+    /* or 104px */
+    letter-spacing: 2px;
+    color: #000000;
+}
+
+.navbar-item-text {
+    /* font-family: Poppins; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 2px;
+    color: #000000 !important;
+    margin-left: 40px;
+    margin-right: 40px;
+}
